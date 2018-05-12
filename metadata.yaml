@@ -1,0 +1,34 @@
+_repo: In-Ancient-Albemarle_25805
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pugh, Mabel
+    alias: Pugh, Sarah Mabel
+    birthdate: 1891
+    deathdate: 1986
+    gutenberg_agent_id: '31586'
+    url: http://www.gutenberg.org/2009/agents/31586
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Albertson, Catherine
+    birthdate: 1868
+    gutenberg_agent_id: '31587'
+    url: http://www.gutenberg.org/2009/agents/31587
+description: ''
+gutenberg_issued: '2008-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'North Carolina -- History'
+- !lcc 'F206'
+- !lcsh 'Albemarle Region (N.C.) -- History'
+title: In Ancient Albemarle
+url: http://www.gutenberg.org/ebooks/25805
